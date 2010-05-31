@@ -1,0 +1,13 @@
+This is a flash game hosting site written in PHP. Needs PHP 4+, MySQL, and Apache with mod_rewrite
+
+Install:
+
+Create a database
+
+Run the db.sql file using phpMyAdmin or similar
+
+Add the database info to inc/db.php
+
+Edit inc/config.php to change the site name, description, and Google Adsense ID
+
+Copy files to your server
